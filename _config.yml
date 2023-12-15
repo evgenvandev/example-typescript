@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 #baseurl: "/Type-on-Strap"
-baseurl: ""
-url: "https://sylhare.github.io"
+baseurl: 'example-typescript'
+url: http://evgenvandev.github.io
 
 # THEME-SPECIFIC CONFIGURATION
 title: Design of Spectra sailplane                      # site's title
