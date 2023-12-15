@@ -4,7 +4,7 @@ baseurl: '/example-typescript'
 url: http://evgenvandev.github.io
 
 # THEME-SPECIFIC CONFIGURATION
-title: Design of Spectra sailplane                      # site's title
+title: Tutorial for learning a TypeScript                      # site's title
 description: "A website with blog posts and pages"      # used by search engines
 #avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 avatar: assets/img/va-typescript.png                         # Empty for no avatar in navbar
@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 #header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_text: Spectra sailplane # Change Blog header text
+header_text: Learning TypeScript # Change Blog header text
 header_feature_image: assets/img/header/spectra-title-1.jpg
 header_feature_image_responsive: true
 footer_text: >
