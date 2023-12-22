@@ -75,3 +75,6 @@ class Engine {
 
 [_Вторая часть проекта - "TypeScript - скелет игры"_]({{ site.url }}{{ site.baseurl }}{% post_url 2023-11-30-typescript-plan-game %})   
 [_Оригинал статьи_.](https://urvanov.ru/2019/05/23/typescript-tsconfig-json-%d0%bf%d0%b8%d1%88%d0%b5%d0%bc-%d1%81%d0%b2%d0%be%d1%8e-%d0%b8%d0%b3%d1%80%d1%83/)
+
+[_Исходный репозиторий GitHub_.](https://github.com/urvanov-ru/tscolorballs)   
+[_Исходные файлы с данного сайта_]({{ site.url }}{{ site.baseurl }}/assets/source_code/tscolorballs-master.zip)
